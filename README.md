@@ -25,6 +25,10 @@ Software gratuito que permite recuperar archivos eliminados accidentalmente de d
 Descarga:
 https://www.ccleaner.com/recuva
 
+Enlace a video explicativo de como recuperar los datos:
+
+https://youtu.be/dKzHCru3EGo?is=QH1pToiLDwN588GG
+
 4. Recuperación de contraseñas
 
 🔹 Programa: John the Ripper
