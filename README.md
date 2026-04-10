@@ -43,3 +43,11 @@ Un entorno de rescate completo que incluye múltiples herramientas para diagnós
 
 Descarga:
 https://www.hirensbootcd.org/
+
+
+Trabajo realizado por:
+
+Alvaro Carvajal Bayon
+Pablo Lama Romero
+Antonio Montaño Herrera
+Jorge Alvarez Galvan
